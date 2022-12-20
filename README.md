@@ -1,7 +1,7 @@
 [中文简体 Chinese version](https://github.com/RedstoneCraftTeam/Redstone_Craft/Chinese.md)
 # Redstone Craft
 A Fabric based Minecraft survival modpack.
-📠modlist | 📂resourcepack list
+
 📞contact us:
 🐧QQ:688022488
 📧E-mail:GeneLuo@qq.com
