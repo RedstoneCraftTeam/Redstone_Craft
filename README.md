@@ -1,4 +1,4 @@
-[中文简体 Chinese version](https://github.com/RedstoneCraftTeam/Redstone_Craft/Chinese.md)
+[中文简体 Chinese version](https://github.com/RedstoneCraftTeam/Redstone_Craft/blob/main/Chinese.md)
 # Redstone Craft
 A Fabric based Minecraft survival modpack.
 
