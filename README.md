@@ -9,7 +9,7 @@ A Fabric based Minecraft survival modpack.
 [[Click here to download the latest version]](https://share.weiyun.com/hjzBQhaQ)
 Not sure which version to download? See the version comparison table below.
 
-| version | Vulnerability | Recommended | Number of modules | Remarks |
+| version | Vulnerability | Recommended | Number of mods | Remarks |
 | --- | --- | --- | --- | --- |
 | 1.1.0 | ✅ | ❌ | 19 | First virsion |
 | [1.1.1](https://share.weiyun.com/hjzBQhaQ) | ❌ | ✅ | 19 | Fix bugs |
