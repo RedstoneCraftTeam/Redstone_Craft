@@ -14,6 +14,8 @@
 | 1.1.0 | ✅ | ❌ | 19 | 第一个版本 |
 | [1.1.1](https://share.weiyun.com/hjzBQhaQ) | ❌ | ✅ | 19 | 修复了1.1.0的bug |
 | [1.1.2](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/v1.2) | ❌ | ✅ | 21 | 新增mod：Tweakeroo、耐久信息显示 (Durability Viewer) |
+| [[快照]22w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w01a) | ❌ | ✅ | 23 | 新增mod: Sodium, Iris |
+| [[快照]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ✅ | 26 | 新增mod: JEI, Click Opener Mod, clienttweaks |
 # 免责声明
 - 在mod Tweakeroo中有一些作弊行为。在多人游戏或服务器中使用前请确认，否则后果自负
 
