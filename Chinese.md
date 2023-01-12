@@ -16,7 +16,7 @@
 | [[快照]22w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w01a) | ❌ | ✅ | 23 | 新增mod: Sodium, Iris |
 | [[快照]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ❌ | 26 | 新增mod: JEI, Click Opener Mod, clienttweaks |
 | [[快照]23w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01a) | ❌ | ❌ | 28 | 新增mod: 苹果皮，自动重连 |
-| [[快照]23w01b](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ❌ | ✅ | 28 | 修复了22w02a和23w01a的bugs [更多](https://www.rscraft.cf/bugs) |
+| [[快照]23w01b](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ❌ | ✅ | 27 | 修复了22w02a和23w01a的bugs [更多](https://www.rscraft.cf/bugs) |
 # 免责声明
 - 在mod Tweakeroo中有一些作弊行为。在多人游戏或服务器中使用前请确认，否则后果自负
 
