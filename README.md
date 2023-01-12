@@ -17,6 +17,7 @@ Not sure which version to download? See the version comparison table below.
 | [[SNAPSHOT]22w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w01a) | ❌ | ✅ | 23 | Added mod: Sodium, Iris |
 | [[SNAPSHOT]22w02a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/22w02a) | ❌ | ✅ | 26 | Added mod: JEI, Click Opener Mod, clienttweaks |
 | [[SNAPSHOT]23w01a](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01a) | ❌ | ❌ | 28 | Added mod: Apple skin, autoreconnect |
+| [[SNAPSHOT]23w01b](https://github.com/RedstoneCraftTeam/Redstone_Craft/releases/tag/23w01b) | ❌ | ✅ | 27 | Fix bugs of version 22w02a and 23w01a [More](https://www.rscraft.cf/bugs) |
 # Disclaimer:
 - There are some cheating behaviors in mod Tweakeroo. Please confirm before using in multiplayer game or server, otherwise you will bear the consequences
 
